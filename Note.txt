@@ -1,0 +1,22 @@
+
+
+http://hisham.hm/2016/01/01/how-to-make-a-pull-request-on-github-a-quick-tutorial/
+
+
+
+How to make a pull request on GitHub - a quick tutorial
+
+So you made changes to a project — a bugfix or maybe a new feature — and you want to send it for inclusion in the official (“upstream”) sources. Perhaps you sent an email or opened an issue in the bugtracker, and the project maintainers asked you to send a Pull Request (PR) on GitHub. But how to do this? Here’s a quick how-to guide!
+
+Step 0 - Have a GitHub account
+Before anything, you need to have a GitHub account! If you don’t have one already, go to github.com and sign up. Just follow the instructions, it’s easy and free.
+
+Step 1 - “Fork the repository”
+“Forking a repository” on GitHub means creating your own Git repository, which is a copy of the original.
+
+Let’s visit a repository and fork it. Start by visiting https://github.com/hishamhm/pull-request-tutorial
+
+In the upper-right there’s a button named “Fork”. It also shows a number: how many times this repository was forked by other people).
+
+for one file, use one branch, use the one PR,
+if compare&pull request, left is master, right is forked one branch, just stay in compare&pull request, no more merge or PR
